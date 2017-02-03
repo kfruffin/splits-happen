@@ -2,7 +2,7 @@ package bowling;
 /*
  * Author: Kevin Ruffin
  * 
- * Enter data to simulate a bowling game.
+ * Designed to simulate a real game, in that I didn't expect to know what as coming next.
  * XXXXXXXXXXXX	(10+10+10) + (10+10+10) + (10+10+10) + (10+10+10) + (10+10+10) + (10+10+10) + (10+10+10) + (10+10+10) + (10+10+10) + (10+10+10)	300
  * 9-9-9-9-9-9-9-9-9-9-	9 + 9 + 9 + 9 + 9 + 9 + 9 + 9 + 9 + 9	90
  * 5/5/5/5/5/5/5/5/5/5/5	(10+5) + (10+5) + (10+5) + (10+5) + (10+5) + (10+5) + (10+5) + (10+5) + (10+5) + (10+5)	150
